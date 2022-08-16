@@ -1,0 +1,11 @@
+C:\Users\Aluno-ETEC\Desktop\Pasta_Liberada\aula\aula\obj\Debug\aula.csproj.GenerateResource.cache
+C:\Users\Aluno-ETEC\Desktop\ds\aula\aula\bin\Debug\aula.exe.config
+C:\Users\Aluno-ETEC\Desktop\ds\aula\aula\bin\Debug\aula.exe
+C:\Users\Aluno-ETEC\Desktop\ds\aula\aula\bin\Debug\aula.pdb
+C:\Users\Aluno-ETEC\Desktop\ds\aula\aula\obj\Debug\aula.csprojAssemblyReference.cache
+C:\Users\Aluno-ETEC\Desktop\ds\aula\aula\obj\Debug\aula.Form1.resources
+C:\Users\Aluno-ETEC\Desktop\ds\aula\aula\obj\Debug\aula.Properties.Resources.resources
+C:\Users\Aluno-ETEC\Desktop\ds\aula\aula\obj\Debug\aula.csproj.GenerateResource.cache
+C:\Users\Aluno-ETEC\Desktop\ds\aula\aula\obj\Debug\aula.csproj.CoreCompileInputs.cache
+C:\Users\Aluno-ETEC\Desktop\ds\aula\aula\obj\Debug\aula.exe
+C:\Users\Aluno-ETEC\Desktop\ds\aula\aula\obj\Debug\aula.pdb
